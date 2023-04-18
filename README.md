@@ -10,4 +10,4 @@ This project implements the following :
 - **Recursive Reflection** : reflection is computed recursively for an object according to the variable `recursion_level`.
 
 # Language & Library Used
-- CPP, OpenGL
+- `CPP`, `OpenGL`
